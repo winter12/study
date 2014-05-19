@@ -1,0 +1,14 @@
+study
+=====
++	#include<stdio.h>
++	
++	int main()
++	{
++		int i;
++		for (i=0;i<20; i++)
++	 {
++		printf("1up\n");
++	 }
++		return 0;
++	}
++	
